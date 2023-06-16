@@ -1,7 +1,7 @@
 # CineTicket (Java version)
 BIP-1012 dersi için final projesidir.
 
-Uygulama üzerinden film seçip, bilgilerini görebilirsiniz. Gerçek olmasada birebir koltuk seçme ekranı bulunmaktadır. Buradan seans, koltuk, film seçebilirsiniz. En sonda ticket bilgilerini görebilirsiniz.
+Uygulama üzerinden film seçip, bilgilerini görebilirsiniz. Gerçek olmasada birebir koltuk seçme ekranı bulunmaktadır. Uygulama içerisinden seans, koltuk, film seçebilirsiniz. En sonda ticket bilgilerini görebilirsiniz. Fakat program gerçek bilet satışı amaçlı değildir, bu amaçla kullanılamaz.
 
 > DIKKAT! Proje yalnızca IntelliJ IDEA ve Windows konsolu üzerinde test edilmiştir. Windows konsolunda bazı karakterler okunmayabiliyorken IDE'nin konsolunda silme methodu çalışmamaktadır. Bu IDE'den kaynaklanmaktadır.
 
