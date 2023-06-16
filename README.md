@@ -1,5 +1,8 @@
 # CineTicket (Java version)
 BIP-1012 dersi için final projesidir.
+
+> DIKKAT! Proje yalnızca IntelliJ IDEA ve Windows konsolu üzerinde test edilmiştir. Windows konsolunda bazı karakterler okunmayabiliyorken IDE'nin konsolunda silme methodu çalışmamaktadır. Bu IDE'den kaynaklanmaktadır.
+> ATTENTION! The project has only been tested on IntelliJ IDEA and the Windows console. Some characters may not be readable on the Windows console, while the delete method does not work in the IDE's console. This is due to the IDE itself.
 ## Diagram
 ![image](https://github.com/c4nkn/cineticket-java/assets/56227236/a11108ea-75c2-4c21-93ed-4a83e05632c9)
 
@@ -15,5 +18,5 @@ BIP-1012 dersi için final projesidir.
 5. `java Main.java` komutunu girin.
 
 #### Method 2
-1. Projeyi Eclipse veya Intellij IDEA'da açın.
+1. Projeyi Eclipse veya IntelliJ IDEA'da açın.
 2. Compile edin ve çalıştırın veya direkt çalıştırın.
