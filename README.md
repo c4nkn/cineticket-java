@@ -10,7 +10,7 @@ Uygulama üzerinden film seçip, bilgilerini görebilirsiniz. Gerçek olmasada b
 ![image](https://github.com/c4nkn/cineticket-java/assets/56227236/a11108ea-75c2-4c21-93ed-4a83e05632c9)
 
 ## Folder Structure
-<pre>📁 src<br/>↳ classes<br/>  ↳ Movie.java<br/>  ↳ Menu.java<br/>  ↳ Reservation.java<br/>  ↳ Session.javas<br/>  ↳ Theater.java<br/>  ↳ Utils.java<br/>↳ interfaces<br/>  ↳ IMovie.java<br/>  ↳ IReservation.java<br/>  ↳ ISession.javas<br/>  ↳ ITheater.java<br/>Main.java</pre>
+<pre>📁 src<br/>↳ classes<br/>  ↳ Movie.java<br/>  ↳ Menu.java<br/>  ↳ Reservation.java<br/>  ↳ Session.java<br/>  ↳ Theater.java<br/>  ↳ Utils.java<br/>↳ interfaces<br/>  ↳ IMovie.java<br/>  ↳ IReservation.java<br/>  ↳ ISession.javas<br/>  ↳ ITheater.java<br/>Main.java</pre>
 
 ## Setup 
 #### Method 1
